@@ -9,15 +9,15 @@
 
 Clone the project repository:
 
-    git clone https://github.com/your_username/your_project.git
+    git clone https://github.com/DevTroli/myblog.git
 
 Navigate to the project directory:
 
-    cd your_project
+    cd myblog
 
 Create a Python virtual environment:
 
-    python -m venv venv
+    python -m venv env
 
 Activate the virtual environment:
 
