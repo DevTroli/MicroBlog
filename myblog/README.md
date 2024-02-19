@@ -7,23 +7,23 @@
 
 ## Instalation: 
 
-    Clone the project repository:
+Clone the project repository:
 
-git clone https://github.com/your_username/your_project.git
+    git clone https://github.com/your_username/your_project.git
 
-    Navigate to the project directory:
+Navigate to the project directory:
 
-cd your_project
+    cd your_project
 
-    Create a Python virtual environment:
+Create a Python virtual environment:
 
-python -m venv venv
+    python -m venv venv
 
-    Activate the virtual environment:
+Activate the virtual environment:
 
-source venv/bin/activate
+    source venv/bin/activate
 
-    Install the project dependencies:
+Install the project dependencies:
 
-pip install -r requirements.txt
+    pip install -r requirements.txt
 
