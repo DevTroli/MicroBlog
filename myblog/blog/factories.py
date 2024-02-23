@@ -3,7 +3,7 @@ import factory
 from faker import Factory as FakerFactory
 from django.contrib.auth.models import User
 from django.utils.timezone import now
-from .models import Post
+from models import Post
 
 faker = FakerFactory.create()
 
