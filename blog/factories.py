@@ -3,7 +3,7 @@ from faker import Factory as FakerFactory
 from django.contrib.auth.models import User
 from django.utils.timezone import now
 
-from blog.models import Post
+from blog.models import Posts
 
 faker = FakerFactory.create()
 
@@ -33,4 +33,4 @@ class PostFactory(factory.django.DjangoModelFactory):
     status = 0
 
     class Meta:
-        model = Post
+        model = Posts
