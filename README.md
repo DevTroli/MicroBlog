@@ -13,7 +13,7 @@ Clone the project repository:
 
 Navigate to the project directory:
 
-    cd myblog
+    cd MicroBlog
 
 Create a Python virtual environment:
 
